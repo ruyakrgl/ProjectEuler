@@ -8,11 +8,4 @@ Start date: January 31, 2023.
 Annual Challenge for 2023 is to solve 150 problems. 
 
 ### Progress:
-<html>
-<body>
-
-<label for="file">Progress:</label>
-<progress id="file" value="5.33" max="100"> 5.33% </progress>
-
-</body>
-</html>
+![5%](https://progress-bar.dev/5)
