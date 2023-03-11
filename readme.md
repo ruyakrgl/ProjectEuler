@@ -8,4 +8,4 @@ Start date: January 31, 2023.
 Annual Challenge for 2023 is to solve 150 problems. 
 
 Progress:
-![6%](https://progress-bar.dev/2)
+![5.33%](https://progress-bar.dev/2)
