@@ -7,14 +7,9 @@ Start date: January 31, 2023.
 
 Annual Challenge for 2023 is to solve 150 problems. 
 
-Progress:
-<h1>Goals</h1>
-<hr />
-<p>
+### Progress:
 <div class="progress progress-20plus">
-<div class="progress-bar" style="width:25.00%">
+<div class="progress-bar" style="width:5.33%">
 <p class="progress-label">5.33%</p>
 </div>
 </div>
-</p>
-
